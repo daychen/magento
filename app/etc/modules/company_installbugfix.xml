@@ -1,0 +1,8 @@
+<config>
+	<modules>
+		<Company_InstallBugfix>
+			<active>false</active>
+			<codePool>local</codePool>
+		</Company_InstallBugfix>
+	</modules>
+</config>

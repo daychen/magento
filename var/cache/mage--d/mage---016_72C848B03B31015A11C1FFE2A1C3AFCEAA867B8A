@@ -1,0 +1,13 @@
+<div class="block block-related categories">
+    <div class="block-title">
+        <strong><span>Deal Category</span></strong>
+    </div>
+    <div class="block-content">
+        <ol class="mini-products-list">
+                    <li class="item">
+               <a href="http://localhost/~yael/magento/index.php/groupdeal/index/index/category/3/?___SID=U">wine</a> 
+               <!--(2)-->
+            </li>
+                </ol>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+<h2 class="subtitle">New Products</h2>
+                    <ul class="products-grid">
+                    <li class="item first">
+                <a href="http://localhost/~yael/magento/index.php/gallo.html?___SID=U" title="Gallo" class="product-image"><img src="http://localhost/~yael/magento/media/catalog/product/cache/1/small_image/135x/9df78eab33525d08d6e5fb8d27136e95/g/a/gallo-154x640_1.jpg" width="135" height="135" alt="Gallo" /></a>
+                <h3 class="product-name"><a href="http://localhost/~yael/magento/index.php/gallo.html?___SID=U" title="Gallo">Gallo</a></h3>
+                                
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-3-new">
+                    HK$200.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-3-new">
+                    HK$190.00                </span>
+            </p>
+                    
+    
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/~yael/magento/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9-eWFlbC9tYWdlbnRvL2luZGV4LnBocC8,/product/3/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://localhost/~yael/magento/index.php/wishlist/index/add/product/3/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://localhost/~yael/magento/index.php/catalog/product_compare/add/product/3/uenc/aHR0cDovL2xvY2FsaG9zdC9-eWFlbC9tYWdlbnRvL2luZGV4LnBocC8,/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                            </ul>
+                </div>
+            </li>
+                </ul>
+            

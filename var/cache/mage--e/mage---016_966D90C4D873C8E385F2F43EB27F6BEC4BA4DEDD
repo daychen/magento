@@ -1,0 +1,13 @@
+<div class="block block-subscribe newsletter">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    
+    <div class="block-content">
+			<div class="actions block-compare">
+            <button class="button" title="Subscribe" type="button" onclick="setLocation('http://localhost/~yael/magento/index.php/groupdeal/index/subscribe/?___SID=U')">
+                <span><span>Subscribe</span></span>
+            </button>
+        </div>
+	    </div>
+</div>

@@ -1,0 +1,12 @@
+<div class="block block-related">
+    <div class="block-title">
+        <strong><span>Latest Deals</span></strong>
+    </div>
+            <div class="block-content">
+        <ol class="mini-products-list" id="mini-deals-list">
+                </ol>
+    </div>
+    <script type="text/javascript">
+        decorateList('mini-deals-list', 'none-recursive')
+    </script>
+</div>

@@ -1,0 +1,32 @@
+<div class="block block-related">
+    <div class="block-title">
+        <strong><span>Latest Deals</span></strong>
+    </div>
+            <div class="block-content">
+        <ol class="mini-products-list" id="mini-deals-list">
+                                <li class="item">
+                <h4><a href="http://localhost/~yael/magento/index.php/groupdeal/?___SID=Usalesutter">sale sutter home</a></h4>
+                <a href="http://localhost/~yael/magento/index.php/groupdeal/?___SID=Usalesutter" title="sale sutter home" class="product-image">
+                    <img src="http://localhost/~yael/magento/media/catalog/product/cache/1/small_image/90x54/9df78eab33525d08d6e5fb8d27136e95/s/u/sutter-home-181x640_2.jpg" width="90" height="54" alt="" />
+                </a>
+                <div class="deal-info-price">
+                    <div class="deal-price"><span class="price">HK$49.00</span></div>
+                    <div class="deal-value"><span class="price">HK$89.00</span></div>
+                </div>
+            </li>
+                                <li class="item">
+                <h4><a href="http://localhost/~yael/magento/index.php/groupdeal/?___SID=Usalegallo">sale Gallo</a></h4>
+                <a href="http://localhost/~yael/magento/index.php/groupdeal/?___SID=Usalegallo" title="sale Gallo" class="product-image">
+                    <img src="http://localhost/~yael/magento/media/catalog/product/cache/1/small_image/90x54/9df78eab33525d08d6e5fb8d27136e95/g/a/gallo-154x640_1_1.jpg" width="90" height="54" alt="" />
+                </a>
+                <div class="deal-info-price">
+                    <div class="deal-price"><span class="price">HK$15.00</span></div>
+                    <div class="deal-value"><span class="price">HK$20.00</span></div>
+                </div>
+            </li>
+                </ol>
+    </div>
+    <script type="text/javascript">
+        decorateList('mini-deals-list', 'none-recursive')
+    </script>
+</div>
